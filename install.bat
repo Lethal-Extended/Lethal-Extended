@@ -1,1 +1,1 @@
-xcopy /e .\ "C:\Program Files (x86)\Steam\steamapps\common\Lethal Company"
+xcopy /e .\ "C:\Program Files (x86)\Steam\steamapps\common\Lethal Company" /Y
