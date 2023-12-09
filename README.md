@@ -2,6 +2,8 @@ This modpack is pre-packaged. You do not need to download anything else.
 
 Simply extract this to the same folder as your `Lethal Company.exe` and run the game!
 
+DO NOT RUN THE AUTO-INSTALLER UNLESS YOU HAVE YOUR GAME INSTALLED ON THE SAME DRIVE AS WINDOWS! (If you install games to a different storage drive then do not run this)
+
 Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
 
 `Features`
@@ -32,10 +34,21 @@ Join our Discord for update announcements and support: https://discord.gg/BkmEar
 
 - Late Joining! Invite your friends after you've already started your game!
 
-
 AND SO MUCH MORE!
 
 `CHANGELOG`
+
+0.0.5:
+
+- Add Custom Boombox Songs (Jellyfish Jam, Ain't no mountain high enough, Life is a highway, Party in the USA)
+
+- New Death voting system (Now requires at least 2 people to vote to leave early)
+
+- Credits are now scaled properly with more than 4 players
+
+- Right click scanning now shows the dollar amount of scrap currently on the ship
+
+- Mod Installation Script (Only for users who install their game to their host drive)
 
 0.0.4:
 

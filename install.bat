@@ -1,0 +1,1 @@
+xcopy /e %USERPROFILE%\Downloads\PenguCC-LethalExtended-0.0.5\ "C:\Program Files (x86)\Steam\steamapps\common\Lethal Company"
