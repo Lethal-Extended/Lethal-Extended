@@ -1,6 +1,6 @@
 THIS MODPACK IS PRE-PACKAGED AND MAINTAINED BY ME, THERE IS NO NEED TO DOWNLOAD ANYTHING ELSE.
 
-THIS MODPACK IS ALSO NOT CURRENTLY COMPATIBLE WITH ANY MODMANAGER, PLEASE USE THE AUTOINSTALLER
+This modpack is for manual installer or people who want to use our auto-installer. If you use a modmanager please go here: https://thunderstore.io/c/lethal-company/p/PenguCC/LethalExtendedModManager/
 
 Simply extract this to the same folder as your `Lethal Company.exe` and run the game!
 
