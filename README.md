@@ -38,6 +38,36 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.0.7:
+
+- Full Update 45 Support
+
+- Enemies no longer play voice lines when dead
+
+- Removed some unnecessary logs
+
+- Added Masked and Nutcracker to the config
+
+- Fixed an issue where audio would randomly play outside
+
+- Slightly reduced mimic spawn rate
+
+- New imperfections for telling mimics apart from the real deal
+
+- Modified Discord RPC
+
+0.0.6: 
+
+- Semi Update 45 Support
+
+- Hoarding Bugs are now capable of pulling the pin from Stun Grenades
+
+- Extension Ladders will now drop when utilized by Hoarding Bugs
+
+- Hoarding Bugs are now able to stop using items
+
+- Clapping animation now makes noise (and monsters can hear it)
+
 0.0.5:
 
 - Add Custom Boombox Songs (Jellyfish Jam, Ain't no mountain high enough, Life is a highway, Party in the USA)
