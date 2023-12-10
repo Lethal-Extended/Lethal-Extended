@@ -1,4 +1,6 @@
-This modpack is pre-packaged. You do not need to download anything else.
+THIS MODPACK IS PRE-PACKAGED AND MAINTAINED BY ME, THERE IS NO NEED TO DOWNLOAD ANYTHING ELSE.
+
+THIS MODPACK IS ALSO NOT CURRENTLY COMPATIBLE WITH ANY MODMANAGER, PLEASE USE THE AUTOINSTALLER
 
 Simply extract this to the same folder as your `Lethal Company.exe` and run the game!
 
@@ -37,6 +39,12 @@ Join our Discord for update announcements and support: https://discord.gg/BkmEar
 AND SO MUCH MORE!
 
 `CHANGELOG`
+
+0.0.8:
+
+- Fixed Voicelines being to common
+
+- Finished the install script for people who's games aren't on their C:\ Drive
 
 0.0.7:
 
