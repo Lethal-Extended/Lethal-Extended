@@ -32,6 +32,34 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.1.0:
+
+- Removed some duplicated files
+
+- Added Disable Speaker Intro
+
+- Cheaper fuel, no longer need to pay to travel to Dine, Rend, and Titan (Terminal still shows a price)
+
+- Added DK64 song to Jukebox
+
+- Fixed skinwalkers barely talking
+
+- Increase range to push
+
+- Decrease push strength
+
+- Increase scaling credits to 25/player
+
+- Decrease player requirement for scaling from 4 -> 2
+
+0.0.9:
+
+- Remove Pinger
+
+- Remove Assignments
+
+- Remove LC_API
+
 0.0.8:
 
 - Fixed Voicelines being to common

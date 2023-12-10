@@ -1,6 +1,6 @@
 {
     "name": "LethalExtendedModManager",
-    "version_number": "0.0.9",
+    "version_number": "0.1.0",
     "website_url": "https://lethal.pengucc.com",
     "description": "A Lethal Company Modpack with loads of fun! (Only for modmanagers)",
     "dependencies": [
@@ -27,6 +27,8 @@
         "EliteMasterEric-SlimeTamingFix-1.0.1",
         "CapyCat-Solos_Bodycams-1.0.4",
         "NiceHairs-Symbiosis-1.0.2",
-        "KodiCraft-TermSpeak-1.0.3"
+        "KodiCraft-TermSpeak-1.0.3",
+        "FlawTECH-DisableIntroSpeaker-1.1.0",
+        "TimeMonkey-Cheaper_Fuel_Company-1.0.1"
     ]
 }
