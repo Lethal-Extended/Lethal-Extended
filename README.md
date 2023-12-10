@@ -1,17 +1,4 @@
-THIS MODPACK IS PRE-PACKAGED AND MAINTAINED BY ME, THERE IS NO NEED TO DOWNLOAD ANYTHING ELSE.
-
-THIS MODPACK IS ALSO NOT CURRENTLY COMPATIBLE WITH ANY MODMANAGER, PLEASE USE THE AUTOINSTALLER
-
-Simply extract this to the same folder as your `Lethal Company.exe` and run the game!
-
-`Auto-Installer`
-
-If your game is on your C:\ Drive then run `install.bat`
-
-If your game is on any other storage device, then run `install-other.bat`. It will prompt you for a drive letter, please ONLY type the letter of the Drive the game is installed to
-(Example: D) and NOT (D:\)
-
-Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
+This is the modpack for anyone using modmanager. If you are not using modmanager please go here: https://thunderstore.io/c/lethal-company/p/PenguCC/LethalExtended/
 
 `Features`
 
