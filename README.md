@@ -4,7 +4,12 @@ THIS MODPACK IS ALSO NOT CURRENTLY COMPATIBLE WITH ANY MODMANAGER, PLEASE USE TH
 
 Simply extract this to the same folder as your `Lethal Company.exe` and run the game!
 
-DO NOT RUN THE AUTO-INSTALLER UNLESS YOU HAVE YOUR GAME INSTALLED ON THE SAME DRIVE AS WINDOWS! (If you install games to a different storage drive then do not run this)
+`Auto-Installer`
+
+If your game is on your C:\ Drive then run `install.bat`
+
+If your game is on any other storage device, then run `install-other.bat`. It will prompt you for a drive letter, please ONLY type the letter of the Drive the game is installed to
+(Example: D) and NOT (D:\)
 
 Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
 
