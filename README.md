@@ -32,6 +32,18 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.1.1:
+
+- Update Mimics
+
+- Update ScalingStartCredits
+
+- Updated SkinWalker
+
+- Players can no longer join your game until after the ship has gone into orbit
+
+- Added Unlimited Paint
+
 0.1.0:
 
 - Removed some duplicated files
