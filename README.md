@@ -32,6 +32,26 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.1.2:
+
+- Updated MoreEmotes
+
+- Updated LateCompany
+
+- Updated DeathVoting
+
+- Updated BepInExUtils
+
+- The Griddy no longer requires empty hands
+
+- Removed Life is a highway
+
+- Mimics are far less common by default and no longer have a randomly chosen imperfection
+
+- Added more songs (Duct Tape, Take the wheel, Pure Ecstasy, Yeat x Playboi Carti - VVV)
+
+- Fixes Landmines exploding immediately
+
 0.1.1:
 
 - Update Mimics
