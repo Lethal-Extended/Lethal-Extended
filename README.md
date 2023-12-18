@@ -32,6 +32,26 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.1.3:
+
+- Added new emotes along with a new emote system! `Keybind: ~`
+
+- Added Coil Head Stare!
+
+- Flashlights now dim as their batteries die
+
+- Presents now have a 5% chance to explode when opened
+
+- Items now cycle properly when dropped
+
+- You can now charge metal!
+
+- There is now a compatibility checker to see what mods you are missing when joining a lobby
+
+- Removed Death Voting because it was breaking stuff
+
+- Fixed the install scripts to automatically remove all mods and re-install
+
 0.1.2:
 
 - Updated MoreEmotes
