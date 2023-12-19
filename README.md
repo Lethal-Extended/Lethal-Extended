@@ -45,6 +45,20 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.1.4:
+
+- Re-added Employee Assignments
+
+- Reworked Masked Enemies (Masks no longer show)
+
+- HOPEFULLY fixed an issue where items became invisible for other players when dropped
+
+- Re-Added old emotes along with the new ones
+
+- Rotated Suits (added some custom ones too)
+
+- Fixed sprinting on ladders
+
 0.1.3:
 
 - Added new emotes along with a new emote system! `Keybind: ~`
