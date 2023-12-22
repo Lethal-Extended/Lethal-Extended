@@ -45,6 +45,22 @@ AND SO MUCH MORE!
 
 `CHANGELOG`
 
+0.1.5:
+
+- Update TooManyEmotes
+
+- Add more player Cosmetics
+
+- Deadlines now scale properly, you are granted more days as the quota grows
+
+- Fixed an issue with the flashlight not working with LMB when not in reserved slot
+
+- Health now displays in numbers
+
+- Added 2 new songs (Locked out of Heaven and Boys a liar)
+
+- Masks will now actively try and possess you by trying to switch your active hand to the mask
+
 0.1.4:
 
 - Re-added Employee Assignments
