@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 3990832471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83de025100affa4c34618f552aa42097
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f5c62fe66aaba03960ce041b6aa77c3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 83de025100affa4c34618f552aa42097
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -2006330137, guid: 138b4eb11884c8b175831866fa6e3bff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad461886cd54dee46ad3db3cfc357c7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ae2635ff5d87084aa14aba8ada528cb, type: 3}
+- Class: 114
+  Script: {fileID: -91948227, guid: 2fa277733cf6e1533c5b7283121f7261, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4d74213901158649bc0afec65f0a6b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+Assets:
+- Assets/SkibidiToiletMale07 Variant.prefab
+- Assets/Backrooms/Skibidi/textures/toilet.png
+- Assets/Backrooms/Materials/Ceiling2.mat
+- Assets/Backrooms/floor.prefab
+- Assets/Backrooms/Skibidi/source/SkibidiToiletMale07 1.controller
+- Assets/Backrooms/ceiling.prefab
+- Assets/Backrooms/textures/Walls_Metallic.tga.png
+- Assets/Backrooms/Skibidi/textures/toilet.mat
+- Assets/Backrooms/textures/MainRoom_CaptainsChair_Roughness.tga.png
+- Assets/cube.prefab
+- Assets/Backrooms/Skibidi/textures/eyel.mat
+- Packages/com.unity.render-pipelines.high-definition/Runtime/Material/Lit/Lit.shader
+- Assets/Backrooms/ControlRoom.prefab
+- Assets/Backrooms/textures/Ship_MainRoom_ControlPanel_Normal_DirectX.png
+- Assets/Backrooms/textures/MainRoom_CaptainsChair_Normal_DirectX.tga.png
+- Assets/Backrooms/textures/Emmisive.png
+- Assets/Backrooms/Skibidi/textures/mike_facemap.png
+- Assets/Backrooms/Skibidi/textures/eyeball_l.png
+- Assets/Backrooms/Models/Carpet.mat
+- Assets/Backrooms/textures/Controll.mat
+- Assets/Backrooms/Models/wall.fbx
+- Assets/Backrooms/textures/Wall.mat
+- Assets/Backrooms/lightlessceiling.prefab
+- Assets/Backrooms/ControlRoom Variant.prefab
+- Assets/Backrooms/textures/Walls_Roughness.tga.png
+- Assets/Backrooms/textures/Walls_Normal_DirectX.tga.png
+- Packages/com.unity.render-pipelines.high-definition/Editor/RenderPipelineResources/Texture/HDAdditionalLightData.png
+- Assets/Backrooms/Skibidi/textures/mouth.mat
+- Assets/Backrooms/Models/Light.mat
+- Assets/Backrooms/Skibidi/source/Armature.controller
+- Assets/Backrooms/hrsvamowsdra.jpg
+- Assets/Backrooms/backrooms.prefab
+- Assets/Backrooms/Models/pillar.fbx
+- Assets/Backrooms/Skibidi/textures/mouth.png
+- Assets/Backrooms/textures/MainRoom_CaptainsChair_Base_Color.tga.png
+- Assets/Backrooms/pillar.prefab
+- Assets/Backrooms/cn40k99826b91.jpg
+- Assets/Backrooms/Models/ControlRoom.obj
+- Assets/Backrooms/wall.prefab
+- Assets/Backrooms/Materials/Floor.mat
+- Assets/Backrooms/Models/lightlessceiling.fbx
+- Assets/Backrooms/WoodFine0058_30_350.jpg
+- Assets/Backrooms/Skibidi/source/SkibidiToiletMale07.prefab
+- Assets/Backrooms/room.prefab
+- Assets/Backrooms/Models/ceiling.fbx
+- Assets/Backrooms/Models/floor.fbx
+- Assets/Backrooms/textures/Ship_MainRoom_ControlPanel_Base_Color.png
+- Assets/Backrooms/Skibidi/source/SkibidiToiletMale07.fbx
+- Assets/Backrooms/textures/Walls_Base_Color.tga.png
+- Assets/Backrooms/Skibidi/textures/face.mat
+- Assets/Backrooms/textures/MainRoom.mat
+- Assets/Backrooms/Skibidi/Skibidi Toilet Full Song Music Video.mp3
+- Assets/Backrooms/Skibidi/textures/eyeball_r.png
+Dependencies: []
