@@ -1,3 +1,7 @@
+## 0.1.8
+
+Legit nothing, Thunderstore being a pain
+
 ## 0.1.7
 
 - Fixed Backrooms config to lower chances of being yanked into the backrooms
