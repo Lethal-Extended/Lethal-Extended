@@ -1,6 +1,16 @@
 ## 0.1.8
 
-Legit nothing, Thunderstore being a pain
+- Remove MetalRecharging because of Conflict with Lethal-Things
+
+- Remove Leftover files from previous mods
+
+- Remove ShipClock (It was broken)
+
+- Some monsters now have a chance to escape the facility and chase you! (Braken, Jester, Spider)
+
+- Added More Cosmetics
+
+- Added NoSellLimit! There is no longer a limit to how many items you can sell at a time when at the company building
 
 ## 0.1.7
 
