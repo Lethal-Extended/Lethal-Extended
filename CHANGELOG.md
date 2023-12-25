@@ -1,3 +1,27 @@
+## 0.1.7
+
+- Fixed Backrooms config to lower chances of being yanked into the backrooms
+
+- Added LethalLanFix to allow for direct IP connections
+
+- Added Discount Alerts
+
+- Added Diversity, which revamps a lot of monsters
+
+- Updated ExplodingPresents
+
+- Removed IntroTweaks
+
+- Added FrostyCosmetics
+
+- Removed More Emotes in order to fix an issue where players hands would disappear
+
+- Fixed Spawn weight for Coil Heads
+
+- Added YieldDmgTweak which makes Yield signs do more damage
+
+- You can now help your friends out whenever a centipede is latched onto their head by spamming the use button if you don't have a shovel.
+
 ## 0.1.6
 
 - Updated Late Company
@@ -11,8 +35,6 @@
 - Boomboxes will now autoplay to the next song instead of looping
 
 - Boomboxes no longer have battery life
-
-- Removed More Emotes in order to fix an issue where players hands would disappear 
 
 - You can now clip into the backrooms (have fun with that)
 
