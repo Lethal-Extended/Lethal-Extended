@@ -1,3 +1,9 @@
+## 0.2.0
+
+- Updated TooManyEmotes (Fixes an issue with favorite emotes not saving)
+
+- Updated Diversity (Fixes multiple issues, mainly audio bugs)
+
 ## 0.1.9
 
 - Updated Neofetch
