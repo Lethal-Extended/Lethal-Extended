@@ -1,3 +1,23 @@
+## 0.1.9
+
+- Updated Neofetch
+
+- Updated LethalEscape (Fixes lag issues)
+
+- Updated DiscountAlert
+
+- Updated Symbiosis (Hoarding Bugs disperse after nest return allowing space for others, spawns flies on player corpses after ~1 minute)
+
+- Updated LethalThings (Glizzy is no longer called "Training Manual")
+
+- Updated ReservedItemSlotCore (Fixes compat with LethalThings)
+
+- Updated TooManyEmotes (Fixes player shadow render, Added Emotes Loadout)
+
+- Added BuyableShotGun (and shells)
+
+- Added HexiBetterShotgun (Shotguns will now fire 10 pellets rather than either a single hitscan)
+
 ## 0.1.8
 
 - Remove MetalRecharging because of Conflict with Lethal-Things
