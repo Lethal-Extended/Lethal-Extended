@@ -1,3 +1,7 @@
+## 0.2.1
+
+Updated File Structure to be in Thunderstore Compliance
+
 ## 0.2.0
 
 - Updated TooManyEmotes (Fixes an issue with favorite emotes not saving)
