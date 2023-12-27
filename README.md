@@ -13,6 +13,13 @@ If your game is on any other storage device, then run `install-other.bat`. It wi
 
 Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
 
+`DMCA`
+
+If ANYONE has an issue with their mods being used PLEASE contact me on Discord: pengucc
+
+I will do my best to resolve issues, however I love the work that all of the developers of these mods are doing.
+If any of you mod devs join my Discord you will all recieve a mod showing you are a mod contributor.
+
 `Features`
 
 - More Emotes!

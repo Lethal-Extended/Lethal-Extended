@@ -1,3 +1,21 @@
+## 0.2.1
+
+- Added an auto-update Script
+
+- Update Backrooms
+
+- Update DiscountAlert
+
+- Add Corporate Restructure
+
+- Remove Diversity (Fixes the dungeons being pitch black)
+
+- Remove MoonOfTheDay (Fixes seeds not randomizing)
+
+- Add SuitSaver
+
+- Add CorporateRestructure
+
 ## 0.2.0
 
 - Updated TooManyEmotes (Fixes an issue with favorite emotes not saving)

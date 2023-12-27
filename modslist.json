@@ -1,6 +1,5 @@
 [
     "Backrooms",
-    "Diversity",
     "LethalLib",
     "LethalThings",
     "MoreSuits",
@@ -22,7 +21,6 @@
     "LethalCompanyDRP",
     "MaskedEnemyRework",
     "Mimics",
-    "MoonOfTheDay",
     "MoreCompany",
     "Neofetch",
     "BepInExUtils",
@@ -54,5 +52,7 @@
     "NuclearLib",
     "BuyableShotgun",
     "BuyableShotgunShells",
-    "HexiBetterShotgun"
+    "HexiBetterShotgun",
+    "SuitSaver",
+    "CorperateRestructure"
 ]
