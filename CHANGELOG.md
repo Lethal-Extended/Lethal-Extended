@@ -1,3 +1,15 @@
+## 0.2.2
+
+- Update TooManyEmotes
+
+- Update HexiBetterShotgun
+
+- Update SCPDunGen
+
+- Add MaskTheDead
+
+- Remove `install.bat` (Deprecated. Keeping `install-other.bat` for my testing)
+
 ## 0.2.1
 
 - Added an auto-update Script
