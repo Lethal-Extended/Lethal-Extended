@@ -1,6 +1,6 @@
 @echo off
 mkdir C:\update-temp
-curl "https://lethal.pengucc.com/releases/Lethal-Extended-Latest.zip" --output "C:\update-temp\Lethal-Extended-Latest.zip"
+curl "https://github.com/Lethal-Extended/Lethal-Extended/releases/latest/download/Lethal-Extended-Latest.zip" --output "C:\update-temp\Lethal-Extended-Latest.zip"
 powershell Expand-Archive "C:\update-temp\Lethal-Extended-Latest.zip" -DestinationPath "C:\update-temp"
 powershell -command "Start-Sleep -s 3"
 del /q /s "C:\Program Files (x86)\Steam\steamapps\common\Lethal Company\BepInEx\*"
