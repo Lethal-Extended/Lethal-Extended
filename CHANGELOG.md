@@ -1,3 +1,103 @@
+## 0.2.6
+
+- NutCrackers can now Escape
+
+- Updated ReservedCore Mods (Flashlight, Walkie, Spraypaint)
+
+- Update MinecraftLoot
+
+- Removed TooManyEmotes (It was causing TOOManyProblems) get it?
+
+## 0.2.5
+
+- Updated Backrooms
+
+- Updated Latecompany
+
+- Updated LethalExpansion
+
+- Added 3 new maps (Castle Grounds, Christmas Village, Taiga)
+
+- Updated TooManyEmotes
+
+- Removed SCPDunGen
+
+- Changed Emotes Keybind to `C`
+
+- Time now shows in the ship
+
+- Adding Gambling Machine at the company (For that last ditch attempt to make quota)
+
+- Installing or updating will now copy the auto update script to your desktop so you don't have to hunt for it!
+
+## 0.2.4
+
+- Updated Backrooms
+
+- Updated CorporateRestructure
+
+- Updated ReservedSprayPaintSlot
+
+- Added ReservedWeaponSlot
+
+- Updated SCPDunGen
+
+- Updated TooManyEmotes
+
+- Updated Kast
+
+- Updated ReservedItemCore
+
+- Added MinecraftScraps
+
+## 0.2.3
+
+- Removed CheaperFuelCompany
+
+- Added FreeMoons
+
+- Added LethalExpansion
+
+- Added Custom Moons (DuckMoons, OldSeaPort, and Kast)
+
+- Updated ReservedItemSlotCore
+
+- Added ReservedSprayPaintSlot
+
+- Updated NuclearLib
+
+- Fixed Update Scripts and re-added Install Script
+
+## 0.2.2
+
+- Update TooManyEmotes
+
+- Update HexiBetterShotgun
+
+- Update SCPDunGen
+
+- Add MaskTheDead
+
+- Remove `install.bat` (Deprecated. Keeping `install-other.bat` for my testing)
+
+## 0.2.1
+
+- Added an auto-update Script
+
+- Update Backrooms
+
+- Update DiscountAlert
+
+- Add Corporate Restructure
+
+- Remove Diversity (Fixes the dungeons being pitch black)
+
+- Remove MoonOfTheDay (Fixes seeds not randomizing)
+
+- Add SuitSaver
+
+- Add CorporateRestructure
+
 ## 0.2.0
 
 - Updated TooManyEmotes (Fixes an issue with favorite emotes not saving)

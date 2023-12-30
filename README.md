@@ -1,3 +1,5 @@
+Watch the new Modpack trailer! https://www.youtube.com/watch?v=cJcAbvsE7nE
+
 This is the modpack for anyone using modmanager. If you are not using modmanager please go here: https://lethal.pengucc.com
 
 `Features`
