@@ -1,3 +1,51 @@
+## 0.2.8
+
+- Added LandminesForAll (Monsters now trigger Landmines)
+
+- Removed TooManyEmotes (Probably for awhile)
+
+- Beta-Branch Install Scripts
+
+- GroanTubeScrap
+
+- SCP SecretLabs Moon!
+
+- Updated LethalExpansion
+
+- Updating GamblingMachine
+
+- Added LategameUpgrades
+
+- Updated ReservedSlot Mods
+
+- Added IndieGameScrap
+
+- Drop Exploding Presents chance from 20% -> 10%
+
+- The following monsters no longer mimic player voices: "Jester, Thumper, Ghost Girl, Eyeless Dog"
+
+## 0.2.7
+
+- Updated DiscountAlert
+
+- Fix normal install script
+
+- Updated ReservedSlotCore
+
+- Added more scrap
+
+- Added ShowCapacity (Displays remaining capacity of paint spray and TZP)
+
+- No longer requires 3 scrap in inventory to drop a mask
+
+- Remove MoreEmotes and add TooManyEmotes Back
+
+- Add 2 new suits (Rotated out Glow suit and Spacepajama)
+
+- Fixed LethalExtended Logo on LE Suit
+
+- Rotate Songs
+
 ## 0.2.6
 
 - NutCrackers can now Escape

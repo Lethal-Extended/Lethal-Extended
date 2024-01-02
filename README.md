@@ -6,8 +6,6 @@ This is the modpack for anyone using modmanager. If you are not using modmanager
 
 - More Emotes!
 
-- Moon of the Day (and week). These Moons look very familiar, but are very different ;)
-
 - Terminal Features! New Terminal screen when first interacting and if you have a powered on walkie talkie in your inventory it will automatically be enabled for talking!
 
 - Monsters will now steal your friends voices and play them, don't be tricked...
@@ -15,8 +13,6 @@ This is the modpack for anyone using modmanager. If you are not using modmanager
 - Employee Assignments! Complete assignments for more money!
 
 - Symbiosis! Monsters can interact with player objects on occasion
-
-- Pinging! You can now ping points of interest so that your teammates can see it! `Default key: T`
 
 - Some fire escapes aren't as they seem, make sure you inspect them carefully...
 
