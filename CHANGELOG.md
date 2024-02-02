@@ -1,3 +1,431 @@
+## 0.4.0.1
+
+**Changes**
+
+- Removed CullFactory
+
+## 0.4.0
+
+**Changes**
+
+- Updated TooManyEmotes
+
+- Updated ReservedCore Mods
+
+- Updated Buyable Shotgun & Shells
+
+- Updated ImmersiveScraps
+
+- Removed Bodycams
+
+- Added LethalLevelLoader
+
+- Added LethalNetworkAPI
+
+- Added OdinSerializer
+
+- Updated ExplosivePresents (New Dev)
+
+- Updated FairAI
+
+- Updated LethalLib
+
+- Updated ShipLootPlus
+
+- Updated PathFindingLagFix
+
+- Updated ReservedCore
+
+- Added CullFactory
+
+- Added FogRemover
+
+- Added HDLethalCompany
+
+- Updated LateCompany
+
+- Updated MaskedEnemyOverhaul
+
+**Features**
+
+- Added Lobby Codes
+
+- Added New Monsters! (SCP 096, Shrimp)
+
+- Added new Dungeons
+
+- RollingGiant can now spawn on all moons
+
+- Added Emergency Dice
+
+- Added Possessed Masks
+
+- Skip the launch options!
+
+## 0.3.7
+
+**Changes**
+
+- Updated Gambling
+
+- Replaced ShipLoot with ShipLootPlus
+
+- Updated FairAI
+
+- Updated MoreCompany
+
+- ScalingCredits swapped to new dev
+
+- Lowered Gambling Machine count (3 -> 2)
+
+**Features**
+
+- Added Lightsaber Weapons
+
+- New Monster! (Rolling Giant)
+
+- New Custom Moon! (Kyrial)
+
+- Added PerformanceEnhancer
+
+- New Scrap!
+
+## 0.3.6
+
+**Changes**
+
+- Lowered amount of custom moons
+
+- Removed Crosshair
+
+- Re-Added TooManyEmotes
+
+- Updated LethalLib
+
+- Updated NintendoHats
+
+- Updated LategameUpgrades
+
+- Added PathfindingLagFix
+
+- Removed MaskedAIRevamp
+
+- Removed LethalNetworkAPI
+
+- Removed Acidir, Infernis (Moons)
+
+- Updated MaskedEnemyRework
+
+- Changed Plugin folder structure
+
+- Removed CoilHeadStare
+
+- Removed Landminefix (no longer needed)
+
+- Removed NuclearLib
+
+- Removed CompatibilityChecker (Deprecated)
+
+- Updated LethalExpansion
+
+**Features**
+
+- Fixed FPS Issues (Hopefully)
+
+- Re-did plugins folder
+
+- Hopefully fixed an issue starting/joining multiplayer sessions
+
+## 0.3.5
+
+**Changes**
+
+- Re-added ReservedCore Mods
+
+- Updated TooManyEmotes
+
+- Updated LethalNetworkAPI
+
+- Updated MoreEmotes
+
+- Updated BuyableShotgunShells & BuyableShotgun
+
+- Updated LethalLib
+
+- Updated Skinwalkers
+
+- Updated Gambling
+
+- Updated LethalExpansion
+
+- Updated MaskedEnemyOverhaul
+
+- Rotated 2 moons (Ducky, TheEnd) -> (Infernis, Acidir)
+
+- Re-added LethalThings
+
+- Updated InsomniaxCosmetics
+
+- Replaced Fly -> Paranoid (Music)
+
+- Added Music Pack Scripts
+
+- Added ObjectVolumeController
+
+- Updated Nintendo Hats
+
+- Updated MinecraftScraps
+
+- Updated LateGameUpgrades
+
+- Removed TreysHealthText
+
+- Removed TooManyEmotes (Temporary)
+
+- Removed misc mods (SpringManWeightFix, Symbiosis, Neofetch, ModManager, ExtraDaysToDeadline, EmployeeAssignments, YippeeScrap)
+
+**Features**
+
+- 2 New Moons (Infernis, Acidir)
+
+- 11 New Cosmetics
+
+- Added ObjectVolumeController (Allows adjusting the volume on media objects)
+
+## 0.3.4
+
+**Changes**
+
+- Updated Diversity
+
+- Updated Gambling
+
+- Removed TermSpeak
+
+- Remove UnlimitedPaint
+
+- Remove MoreHead (Forgot to delete this)
+
+- Update LethalExpansion
+
+- Update MoreEmotes
+
+- Added RuntimeNetcodePatcher
+
+- Updated MinecraftScrap
+
+- Updated MinecraftMoon
+
+- Removed PossessedMask (Hopefully fixes issue with being bugged out by masks)
+
+- Update Starlancer
+
+- Removed Installer Script from files
+
+- Removed LethalThings (Temporary)
+
+- Updated LethalLib
+
+**Features**
+
+- Re-added GroanTubeScrap
+
+- Re-added MoreEmotes (New Emotes)
+
+## 0.3.3
+
+**Changes**
+
+- Fixed all emotes not showing up
+
+- Updated TooManyEmotes
+
+- Players can no longer gain conditions (Blindness, Broken leg/arm, ect)
+
+- Brackens anger time reduced from 90s -> 60s
+
+- Remove LethalLanFix (Fixes multiple hosting/joining issues)
+
+- Updated SpaceShipDoor
+
+- Remove GroanTubeScrap (No evidence it's been working)
+
+- Rotated Music
+
+- Moon Rotation (Nintendo Castle, Taiga, Secret Labs) -> (Minecraft End, Starlancer, Atlas Abyss)
+
+- Added ShipLobby
+
+- Updated Skinwalkers
+
+- Replace LandminesForAll with FairAI
+
+- Updated ExtraDaysToDeadline
+
+- Added LethalConfig
+
+- Updated LethalEscape
+
+- Added MaskedAIRevamp (Unstable, may cause bugs)
+
+- Updated MaskedEnemyRework
+
+- Added LCMaskedFix (Fixes mimic / masked bug where you can't look around after the kill is interrupted)
+
+- Updated LethalExpansion
+
+- Updated GamblingMachine
+
+- Updated CorporateRestructure
+
+- Updated LethalAPITerminal
+
+- Updated Mimics
+
+- Updated MoreCompany
+
+- Updated Neofetch
+
+- Updated Diversity
+
+- Added ItemClippingFix
+
+- Removed MoreEmotes
+
+**Features**
+
+- Some Monsters can now trigger turrets and landmines
+
+- Added Crosshair
+
+- Added Mirror Decor
+
+- Masked Players can now use Shotguns and Shovels/Signs
+
+- Masked Players can now call fake dropships
+
+- Masked Players can now steal scrap and hide it
+
+- Moon Rotation
+
+- Music Rotation
+
+## 0.3.2
+
+**Changes**
+
+- Update SCPSecretLabs Moon
+
+- Update LandMineFix
+
+- Remove MaskTheDead (Shouldn't have been there)
+
+- Update Mimics
+
+- Increased Smiler count to 3
+
+- Masks will no longer force you to drop 2 handed items
+
+- Baboon Hawk can no longer mimic players
+
+- Spiders can now mimic players
+
+- The Coilhead can now escape
+
+- Jetpacks are no longer dropped upon teleport
+
+- Items no longer lose charge when being teleported
+
+**Features**
+
+- Masked Enemies can now emote
+
+- Added YipeeScrap
+
+- Add ModManager
+
+- Re-added TooManyEmotes (PLEASE WORK)
+
+## 0.3.1
+
+**Changes**
+
+- Update MaskedEnemyOverhaul
+
+- Removed DimmingFlashLights
+
+- Re-add Diversity
+
+- Removed ReservedCore Mods (Fixes Desync and other bugs)
+
+- Added NintendoHatCosmetics
+
+- Added SpaceShipDoor
+
+- Added ExtraDaysToDeadline
+
+- Updated GamblingMachine (Fixes spam gambling)
+
+**Features**
+
+- The Bracken will flicker and turn off all nearby lights and will dim player's flashlights if they're close to the him.
+
+- Trying to forcibly turn back on the lights with the breaker box could cause the Bracken to be angered for a while and shut off all power permanently.
+
+- You can now open the spaceship door when in space! (It won't kill you)
+
+- You can now use credits to purchase an extra day for your deadline
+
+## 0.3.0
+
+- Overhaul Scripts again
+
+- Remove HexiBetterShotgun
+
+- Update ReservedCoreMods (SprayPaint, WeaponSlot)
+
+- Update Kast Moon
+
+- Updated LethalExpansion
+
+- Updated ChristmasVillage (Now Seperate Mod)
+
+- Update SCPSecretLabs Moon
+
+- Update NoSellLimit
+
+- Remove ReservedFlashlightSlot (Fixes Desync issues)
+
+- Update ReservedCore
+
+## 0.2.9
+
+- Removed FrostyCosmetics
+
+- Removed HexasCosmetics
+
+- Updated InsomniaxCosmetics
+
+- *Hopefully* fixed an issue with people unable to see cosmetics
+
+- Updated ReservedCoreMods
+
+- Update Symbiosis and NuclearLib (Fixed the vanilla bug that hoarding bugs do not drop items upon death.)
+
+- Update Beta-Installer
+
+- Update SCPSecretLabs Moon
+
+- Add Creator Music Pack
+
+- Remove IndieGameScrap (Fixes Scroll/Interact bug when picking up items)
+
+- Remove LateCompany (Fixes various Desync issues)
+
+- Updated Solo's Bodycams
+
+- Added PermanentLadder
+
 ## 0.2.8
 
 - Added LandminesForAll (Monsters now trigger Landmines)

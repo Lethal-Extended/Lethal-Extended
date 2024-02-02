@@ -1,6 +1,30 @@
-Watch the new Modpack trailer! https://www.youtube.com/watch?v=cJcAbvsE7nE
+Watch the Modpack Trailer: https://www.youtube.com/watch?v=cJcAbvsE7nE
 
-This is the modpack for anyone using modmanager. If you are not using modmanager please go here: https://lethal.pengucc.com
+THIS MODPACK IS PRE-PACKAGED AND MAINTAINED BY ME, THERE IS NO NEED TO DOWNLOAD ANYTHING ELSE.
+
+This modpack is for manual installer or people who want to use our auto-installer. If you use a modmanager please go here: https://thunderstore.io/c/lethal-company/p/PenguCC/LethalExtendedModManager/
+
+`Auto-Installer`
+
+If your game is on your C:\ Drive then run `install.bat`
+
+If your game is on any other storage device, then run `install-other.bat`. It will prompt you for a drive letter, please ONLY type the letter of the Drive the game is installed to
+(Example: D) and NOT (D:\)
+
+DO NOT COPY THE FILES TO YOUR GAME AND THEN RUN THE INSTALLER!!!! IF YOU'VE COPIED THEM TO THE GAME THEN YOU HAVE INSTALLED EVERYTHING YOURSELF
+
+Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
+
+`Auto-Updater`
+
+After Installing the pack, a shortcut will be installed onto your desktop. I recommend keeping it there so you can easily download newer releases of the pack and install them
+
+`DMCA`
+
+If ANYONE has an issue with their mods being used PLEASE contact me on Discord: pengucc
+
+I will do my best to resolve issues, however I love the work that all of the developers of these mods are doing.
+If any of you mod devs join my Discord you will all receive a role showing you are a mod contributor.
 
 `Features`
 
@@ -27,3 +51,4 @@ This is the modpack for anyone using modmanager. If you are not using modmanager
 - Late Joining! Invite your friends after you've already started your game!
 
 AND SO MUCH MORE!
+
