@@ -2,6 +2,17 @@ Watch the Modpack Trailer: https://www.youtube.com/watch?v=cJcAbvsE7nE
 
 Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
 
+`DISCLAIMER!!!`
+
+This modpack contains music that is copyrighted and may not be suitable for content creators however, we have a music switcher that will replace
+copyrighted music with our music made in-house.
+
+This modpack also contains references that some players may find offensive or inappropriate:
+
+- Gambling
+
+- Alcohol and Drugs
+
 `Warning`
 
 Mods cause a dip in performance, it is especially notable on lower-end machines. 
