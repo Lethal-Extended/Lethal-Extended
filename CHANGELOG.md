@@ -1,3 +1,71 @@
+## 0.4.1
+
+**Changes**
+
+- Kast should now show up on DRP (Hopefully)
+
+- Updated Some mods (LCOffice, ShipLootPlus, IntroTweaks, MirrorDecor, EmergencyDice, MoreCompany, LethalLevelLoader, Mimics)
+
+- Removed FogRemover
+
+- Added ModelReplacementAPI
+
+- Removed 2 Interriors (Sewer and Dungeon)
+
+- Hopefully fixed an issue where footsteps and other sounds would disappear
+
+- Updated Mod Configs
+
+- Tweaked Shadow quality
+
+- Removed MinecraftScrap
+
+- Removed Lightsabers
+
+- Fix flashlights
+
+- Fixed Minimum deadline being 2 days instead of 3
+
+- Fixed Start credits not scaling how they used to
+
+- Removed Kyrial
+
+- Removed SpaceShipDoor
+
+- Removed ExplodingPresents
+
+- Removed Backrooms
+
+**Features**
+
+- New Monsters! (Peepers, Fiend)
+
+- Reworked Spiders
+
+- Added handheld map
+
+- Better After game performance results
+
+- Master Chief Suit
+
+- New Bodycams!
+
+- New Weather System
+
+- Noise suppression!
+
+- Bracken will now jam Walkies when within a certain range
+
+- Overhauled saves and allowed for copying saves when not the host
+
+- New Cosmetics
+
+- You can now infinity reload the shotgun and see it's capacity
+
+- All new Gambling located at the company building!
+
+- SCP Moon
+
 ## 0.4.0.1
 
 **Changes**
