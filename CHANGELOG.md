@@ -1,3 +1,75 @@
+## 0.4.2
+
+**Features**
+
+- Added:
+
+    - PoolRooms (Interior)
+    - VarietyMod (Interior)
+    - TooManySuits (QOL)
+    - Backrooms (Hazard)
+    - Backrooms Carpet Sound (ADD)
+    - LCSoundTool (DEP)
+    - CustomSounds (DEP)
+    - BensCosmetics (COS)
+
+**Fixes**
+
+- Fixed scrap disappearing after save reload
+
+**Changes**
+
+- Updated Mods
+
+    - WeatherTweaks
+    - TooManyEmotes
+    - TheFiend
+    - LethalCasino
+    - BetterLobbies
+    - EmergencyDice
+    - OpenBodyCams
+    - RollingGiant
+    - LCMaxSoundsFix
+    - MysteryDice
+    - PigeonsCosmetics
+
+- Updated Interiors
+
+    - LCOffice
+    - SCPFoundationDungeon
+
+- Removed:
+
+    - BetterSaves
+    - SaveStealer
+    - PerformanceEnhancer
+
+**Configs**
+
+- Shy Guy spawn chance raised (20 -> 30)
+
+- Sewer and Castle chance lowered (300 -> 150)
+
+- Masked Entities will now show fake usernames
+
+- Turrets no longer target the following monsters:
+
+    - Shrimp
+    - RollingGiant
+    - SCP 096
+    - TheFiend
+
+- Disabled all Turret, Mine, and Boomba interactions for Peepers to hopefully save some performance with AI logic
+
+- Reduced Peeper weight (10lbs -> 5lbs)
+
+- Increased Shrimp spawn weight
+
+    - Rend = 10
+    - Dine = 20
+    - Titan = 30
+    - Custom Moons = 30
+
 ## 0.4.1
 
 **Changes**

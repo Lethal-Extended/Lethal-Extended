@@ -2,6 +2,10 @@ Watch the Modpack Trailer: https://www.youtube.com/watch?v=cJcAbvsE7nE
 
 Join our Discord for update announcements and support: https://discord.gg/BkmEarDQxq
 
+See all key binds here: https://gitea.pengucc.com/Pengu/Lethal-Extended/src/branch/main/KEYBINDS.md
+
+Report issues here: https://github.com/Lethal-Extended/Lethal-Extended/issues
+
 `DISCLAIMER!!!`
 
 This modpack contains music that is copyrighted and may not be suitable for content creators however, we have a music switcher that will replace
