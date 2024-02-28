@@ -1,3 +1,66 @@
+## 0.4.3
+
+**Summary**
+
+- Added ControlCompanyDetector which gives you an in-game warning when a lobby host is using Control Company.
+- Added new enemies
+- Walkie-Talkies now have frequencies
+- Removed Skinwalker mod and replaced it with Mirage (Syncs audio clips across players)
+- Temporarily removed Backrooms until bugs are addressed
+
+**Features**
+
+- Added: 
+
+    - CoilHeadStare (ADD)
+    - ControlCompanyDetector (QOL)
+    - FrequencyWalkie (QOL)
+    - CustomPostProcessingAPI (DEP)
+    - LCCutscene (DEP)
+    - Voodoo (ENEMY)
+    - Mirage (HAZARD)
+    - BarchLib (DEP)
+    - NAudio (DEP)
+    - UniTask (DEP)
+
+**Fixes**
+
+- Fixed the issue with Corporate Restructure causing the emote camera to appear outside the ship
+- Fixed freezing issues
+- Fixed installers copying files to desktop
+- Fixed NoiseSuppression causing bad mic audio
+
+**Changes**
+
+- Updated Mods
+
+    - LateGameUpgrades
+    - PoolRooms
+    - TooManyEmotes
+    - LCOffice
+    - OpenBodyCams
+    - LethalCasino
+    - Diversity
+    - ShipLootPlus
+    - WeatherTweaks
+    - Arachnophilia
+    - ImmersiveScraps
+
+
+- Removed:
+
+    - CustomSounds
+    - LCSoundTool
+    - CarpetSounds
+    - Skinwalkers
+    - Removed Diversity
+    - Removed Backrooms
+    - Removed NoiseSuppression
+
+- Lethal-Utility
+
+    - You can now select specific versions to install
+
 ## 0.4.2
 
 **Features**
