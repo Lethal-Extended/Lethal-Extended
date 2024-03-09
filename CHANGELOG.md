@@ -1,3 +1,73 @@
+## 0.4.4
+
+**Summary**
+
+- Added Blackjack to Casino (Commit ref: dc634ad88e)
+- Fixed bugs related to Mirage (Commit ref: d09514052b)
+- Fixed issues with saves (Item rotation and positioning) (Commit ref: dc634ad88e)
+- Hopefully fixed desyncing with custom interiors (Commit ref: 02b327d8d9)
+- Removed LethalConfig until it starts working again (Commit ref: 2f3a0fc196)
+- Some emotes now have music/audio (Commit ref: b9b6f09bf7)
+- Removed ControlCompanyDetector because it was giving too much vanilla info (Commit ref: 58e9d5fed8)
+- Fixed issues regarding late players joining as unknown (Commit ref: 1d9ab4b351)
+
+**Features**
+
+- Added:
+
+    - SmartItemSaving (QOL)
+    - ScannableTools (QOL)
+    - Halt (ENEMY) (From DOORS)
+    - StarlancerAIFix (DEP)
+    - 71Gordion (MOON)
+    - FacelessStalker (ENEMY)
+    - FriendPatches (BUG)
+    - SirenHead (ENEMY)
+
+- Rotations:
+
+    - Rotated Cosmetics
+    - Rotated Music
+    - Rotated Suits
+
+**Changes**
+
+- Updated Mods
+
+    - Arachnophilia
+    - OpenBodyCams
+    - ItemClippingFix
+    - LCOffice
+    - PoolRooms
+    - HandHeldMap
+    - LethalCasino
+    - Mirage
+    - Coroner
+    - BuyableShotgun
+    - BuyableShotgunShells
+    - TooManyEmotes
+
+- Removed Mods
+
+    - WeatherTweaks
+    - PigeonsCosmetics
+    - BensCosmetics
+    - VooDoo
+    - LethalConfig
+    - InsomniaxCosmetics
+    - NintendoHats
+    - LCCutscene (How was this still here)
+    - ControlCompanyDetector
+
+- Configs
+
+    - Fixed timings for Mirage, should stop voice lines happening too often. (Commit ref: d09514052b)
+    - Lowered PoolRooms chances, should fix it being selected too often. (Commit ref: 5a188ee892)
+    - Fixed Nightvision goggles not toggling with N (Commit ref: 58649b042e)
+    - Increased Credit Increment for additional players (Commit ref: 8914e21643)
+    - Decreased distance for Bracken to jam Walkies (Commit ref: 0eda24664d)
+    - Decreased Volumetric Fog Quality to 0 (Commit ref: c5d48f1125)
+
 ## 0.4.3
 
 **Summary**
